@@ -1,5 +1,6 @@
 # Video Loop Finder
 AI generated tool thats finds the two most similar frames that are X-Y seconds apart. Somewhat user friendly.
+
 Similar to https://github.com/bbc/video-loop-finder but if you dont have a start/end and just wanna find a ~10 sec loop in a 30min clip
 
 ## How To Use
